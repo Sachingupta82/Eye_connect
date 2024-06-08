@@ -1,0 +1,1 @@
+// Uihelper.showAlertBox(context, image_pick);
